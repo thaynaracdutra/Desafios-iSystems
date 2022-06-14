@@ -29,7 +29,9 @@ Para executar os testes em modo headless utilize o comando <npm run cypress:run>
   Desafio 1:
 https://www.freecodecamp.org/portuguese/news/como-inverter-um-numero-em-javascript/
 https://www.gomakethings.com/converting-strings-to-numbers-with-vanilla-javascrip/
+  
   Desafio 2:
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+  
   Desafio 3:
 https://www.tutorialspoint.com/algorithm-for-matrix-multiplication-in-javascript
