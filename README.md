@@ -24,6 +24,11 @@ Nesse projeto foi utilizado o Cypress versão 10.0.2
 Para inicializar a pagina de testes utilize o comando <npm run cypress:open>
   
 Para executar os testes em modo headless utilize o comando <npm run cypress:run>
+  
+## 👩🏽‍💻 Testes executados
+  
+  ![image](https://user-images.githubusercontent.com/104790510/173697742-50c8be7b-b29e-4c14-95ad-79b9e7c575f6.png)
+
 
 ## 📫 Fontes utilizadas
   Desafio 1:
