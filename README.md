@@ -21,9 +21,9 @@ para instalar as dependecias do projeto Windows:
 
 Nesse projeto foi utilizado o Cypress versão 10.0.2
 
-Para inicializar a pagina de testes utilize o comando <npm run cypress:open>
+Para inicializar a pagina de testes utilize o comando npm run cypress:open
   
-Para executar os testes em modo headless utilize o comando <npm run cypress:run>
+Para executar os testes em modo headless utilize o comando npm run cypress:run
   
 ## 👩🏽‍💻 Testes executados
   
