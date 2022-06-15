@@ -14,8 +14,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Após clonar o projeto para seu dispositivo você devera seguir os seguintes passos:
 
 para instalar as dependecias do projeto Windows:
-´
-<npm install>
+
+npm install
 
 ## ⚙️ Rodando o projeto
 
